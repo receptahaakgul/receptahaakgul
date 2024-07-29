@@ -1,4 +1,4 @@
-  <img src="https://drive.google.com/uc?id=1abcdeFgHijkLmnopQrsTuvWxYz"  alt="BANNER"  />
+![My GitHub Header](https://i.imgur.com/7WCj99B.png)
 
 Hi👋, I'm Taha.
 ---
