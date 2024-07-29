@@ -16,10 +16,13 @@ Here are some ideas to get you started:
   
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=receptahaakgul&show_icons=true&theme=midnight-purple)
+# Profile stats
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=receptahaakgul&show_icons=true&theme=midnight-purple" alt="Anurag's GitHub stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=receptahaakgul&layout=compact&theme=midnight-purple" alt="Top Langs" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=receptahaakgul&layout=compact&theme=midnight-purple)
 
 ---
