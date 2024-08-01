@@ -46,6 +46,7 @@ Hi! I'm Taha, a 15-year-old game and software developer. I'm passionate about ga
   
   ![](https://github-readme-stats.vercel.app/api?username=receptahaakgul&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=receptahaakgul&theme=midnight-purple&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=receptahaakgul&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
