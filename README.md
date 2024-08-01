@@ -40,7 +40,6 @@ Hi! I'm Taha, a 15-year-old game and software developer. I'm passionate about ga
 
 #
 
-
 # **Profile stats**
 
 <div align="center">
