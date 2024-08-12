@@ -46,7 +46,7 @@ Hi! I'm Taha, a 15-year-old game and software developer. I'm passionate about ga
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=receptahaakgul&show_icons=true&theme=midnight-purple)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=receptahaakgul&theme=midnight-purple&hide_border=true) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=receptahaakgul&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arescim&layout=compact&theme=midnight-purple)
 </div>
 
 <div align="center">
