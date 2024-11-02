@@ -1,7 +1,7 @@
 ![My GitHub Header](https://i.imgur.com/7WCj99B.png)
 
 Hi👋, I'm Taha.
--->
+--->
 
 Hi! I'm Taha, a 15-year-old game and software developer. I'm passionate about game development, front-end development, and learning new technologies. Currently, I'm working with Unity and Blazor and gaining experience through various projects. I strive to continuously improve myself by working on creative projects and personal development.
 
