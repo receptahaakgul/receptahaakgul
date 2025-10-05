@@ -1,55 +1,64 @@
-![My GitHub Header](https://i.imgur.com/7WCj99B.png)
+<h1 align="left">Kaizen</h1>
 
-Hi👋, I'm Taha.
----
+###
 
-Hi! I'm Taha, a 15-year-old game and software developer. I'm passionate about game development, front-end development, and learning new technologies. Currently, I'm working with Unity and Blazor and gaining experience through various projects. I strive to continuously improve myself by working on creative projects and personal development.
+<h3 align="left">I'm a game developer and 3D artist on a journey of continuous improvement. My primary focus is using **Unreal Engine** and **Blender** to build engaging gameplay mechanics and visually compelling environments. I'm passionate about both the technical and artistic challenges of game creation.</h3>
 
-# Social
+###
+
 <div align="center">
-  <a href="youtube.com/@receptahaakgul" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/tahaakgg/" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=receptahaakgul&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=receptahaakgul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.instagram.com/kaizendew" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/users/1257708600453758996" target="_blank">
+  <a href="https://discord.com/invite/2fEPfBKX93" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjDfpvvHCldQGmLPLSvtPJkQLSgMGnJwQmJKGDNdsSKMKMxprrzCqNnsTqhnVHwKZVFGV" target="_blank">
+  <a href="mailto:kaizendevv@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linktr.ee/kaizendev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
   </a>
 </div>
 
 ###
 
-# Skills
+<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmo1NGRyanFoc3I1YmQzZ3Rkem1nb2RzdGE5ZXB6NWFqOTBjYTRtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eerCT3REC7bppnpi9H/giphy.gif"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/receptahaakgul/receptahaakgul/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  
-
-  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=receptahaakgul.receptahaakgul&"  />
 </div>
 
-
-# **Profile stats**
-
-<div align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=receptahaakgul&show_icons=true&theme=midnight-purple)
-![](https://github-readme-streak-stats.herokuapp.com/?user=receptahaakgul&theme=midnight-purple&hide_border=true) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=receptahaakgul&layout=compact&theme=midnight-purple)
-</div>
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=receptahaakgul&icon=0&color=0)](https://visitcount.itsvg.in)
- 
-</div>
+###
